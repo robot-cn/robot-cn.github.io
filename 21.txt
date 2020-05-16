@@ -1,0 +1,2 @@
+banner tcp 21 125.45.150.100 1554287031 ftp 220 FTP service ready.\x0a
+banner tcp 21 125.45.239.223 1554287287 ftp 220 FTP service ready.\x0a
